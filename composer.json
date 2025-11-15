@@ -1,0 +1,7 @@
+{
+    "name": "manganix/uploader",
+    "description": "Dependencies for Cloudflare R2 integration.",
+    "require": {
+        "aws/aws-sdk-php": "^3.284"
+    }
+}
